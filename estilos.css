@@ -601,7 +601,7 @@ text-decoration: none;
 }
 .contacto .col .info{
     position: absolute;
-    top: 50%;
+    top: 30%;
     background-color: #252A2E;
     padding: 20px;
     max-width: 350px;
